@@ -8,8 +8,5 @@
 #'   \item{dist}{A numeric value for how far the car traveled before stopping (in feet).}
 #' }
 #' @source Built-in R dataset.
-#' @examples
-#' data(cars)
-#' head(cars)
 #' @export
 "cars"
