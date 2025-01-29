@@ -7,6 +7,6 @@
 #'   \item{speed}{A numeric value representing how fast the car was going (in mph).}
 #'   \item{dist}{A numeric value for how far the car traveled before stopping (in feet).}
 #' }
-#' @source Built-in R dataset.
+#' @source A Built-in R dataset.
 #' @export
 "cars"
